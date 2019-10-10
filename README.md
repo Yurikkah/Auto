@@ -1,2 +1,2 @@
-# Auto
+# Авто
 Discussion on automotive topics
